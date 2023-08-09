@@ -1,0 +1,24 @@
+.logout {
+    width: 93px;
+    height: 43px;
+    -webkit-border-radius: 33px;
+    -moz-border-radius: 33px;
+    border-radius: 33px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 16px;
+    background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    border: solid #dfe3e6 1px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.logout:hover {
+    background: #f0f0f0;
+    text-decoration: none;
+}
+
+.main{
+    min-height: 651px !important;
+}
